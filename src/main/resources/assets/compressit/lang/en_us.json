@@ -15,5 +15,17 @@
   "item.compressit.packed_golden_carrots": "Packed golden carrots",
   "item.compressit.packed_carrots": "Packed carrots",
   "item.compressit.packed_potatoes": "Packed potatoes",
-  "item.compressit.packed_ender_pearls": "Packed ender pearls"
+  "item.compressit.packed_ender_pearls": "Packed ender pearls",
+
+  "item.compressit.bag_of_gunpowder": "Bag of gunpowder",
+  "item.compressit.bag_of_flint": "Bag of flint",
+  "item.compressit.bag_of_nether_warts": "Bag of nether warts",
+  "item.compressit.bag_of_oak_saplings": "Bag of oak saplings",
+  "item.compressit.bag_of_mangrove_propagules": "Bag of mangrove propagules",
+  "item.compressit.bag_of_spruce_saplings": "Bag of spruce saplings",
+  "item.compressit.bag_of_jungle_saplings": "Bag of jungle saplings",
+  "item.compressit.bag_of_dark_oak_saplings": "Bag of dark oak saplings",
+  "item.compressit.bag_of_birch_saplings": "Bag of birch saplings",
+  "item.compressit.bag_of_acacia_saplings": "Bag of acacia saplings",
+  "item.compressit.bag_of_cherry_saplings": "Bag of cherry saplings"
 }

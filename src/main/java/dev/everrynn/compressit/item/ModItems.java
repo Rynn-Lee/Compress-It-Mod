@@ -27,6 +27,17 @@ public class ModItems {
     public static final Item PACKED_CARROTS = registerItem("packed_carrots", new Item(new FabricItemSettings()));
     public static final Item PACKED_POTATOES = registerItem("packed_potatoes", new Item(new FabricItemSettings()));
     public static final Item PACKED_ENDER_PEARLS = registerItem("packed_ender_pearls", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_GUNPOWDER = registerItem("bag_of_gunpowder", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_FLINT = registerItem("bag_of_flint", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_NETHER_WARTS = registerItem("bag_of_nether_warts", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_OAK_SAPLINGS = registerItem("bag_of_oak_saplings", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_MANGROVE_PROPAGULES = registerItem("bag_of_mangrove_propagules", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_SPRUCE_SAPLINGS = registerItem("bag_of_spruce_saplings", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_JUNGLE_SAPLINGS = registerItem("bag_of_jungle_saplings", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_DARK_OAK_SAPLINGS = registerItem("bag_of_dark_oak_saplings", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_BIRCH_SAPLINGS = registerItem("bag_of_birch_saplings", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_CHERRY_SAPLINGS = registerItem("bag_of_cherry_saplings", new Item(new FabricItemSettings()));
+    public static final Item BAG_OF_ACACIA_SAPLINGS = registerItem("bag_of_acacia_saplings", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries){
         entries.add(TIED_STICKS);
@@ -44,7 +55,17 @@ public class ModItems {
         entries.add(PACKED_GOLDEN_CARROTS);
         entries.add(PACKED_CARROTS);
         entries.add(PACKED_POTATOES);
-        entries.add(PACKED_ENDER_PEARLS);
+        entries.add(BAG_OF_GUNPOWDER);
+        entries.add(BAG_OF_FLINT);
+        entries.add(BAG_OF_NETHER_WARTS);
+        entries.add(BAG_OF_OAK_SAPLINGS);
+        entries.add(BAG_OF_MANGROVE_PROPAGULES);
+        entries.add(BAG_OF_SPRUCE_SAPLINGS);
+        entries.add(BAG_OF_JUNGLE_SAPLINGS);
+        entries.add(BAG_OF_DARK_OAK_SAPLINGS);
+        entries.add(BAG_OF_BIRCH_SAPLINGS);
+        entries.add(BAG_OF_ACACIA_SAPLINGS);
+        entries.add(BAG_OF_CHERRY_SAPLINGS);
     }
 
     private static Item registerItem(String name, Item item){

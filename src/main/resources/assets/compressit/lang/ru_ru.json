@@ -15,5 +15,17 @@
   "item.compressit.packed_golden_carrots": "Упаковка золотой моркови",
   "item.compressit.packed_carrots": "Упаковка моркови",
   "item.compressit.packed_potatoes": "Упаковка картофеля",
-  "item.compressit.packed_ender_pearls": "Упаковка жемчуга эндера"
+  "item.compressit.packed_ender_pearls": "Упаковка жемчуга эндера",
+
+  "item.compressit.bag_of_gunpowder": "Мешочек с порохом",
+  "item.compressit.bag_of_flint": "Мешочек с кремнем",
+  "item.compressit.bag_of_nether_warts": "Мешочек с адским наростом",
+  "item.compressit.bag_of_oak_saplings": "Мешочек с ростками дуба",
+  "item.compressit.bag_of_mangrove_propagules": "Мешочек с мангровыми отростками",
+  "item.compressit.bag_of_spruce_saplings": "Мешочек с ростками ели",
+  "item.compressit.bag_of_jungle_saplings": "Мешочек с ростками тропического дерева",
+  "item.compressit.bag_of_dark_oak_saplings": "Мешочек с ростками тёмного дуба",
+  "item.compressit.bag_of_birch_saplings": "Мешочек с ростакми берёзы",
+  "item.compressit.bag_of_acacia_saplings": "Мешочек с ростками акации",
+  "item.compressit.bag_of_cherry_saplings": "Мешочек с ростками вишневого дерева"
 }

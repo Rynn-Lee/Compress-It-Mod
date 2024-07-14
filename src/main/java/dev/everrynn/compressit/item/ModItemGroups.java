@@ -31,6 +31,17 @@ public class ModItemGroups {
                 entries.add(ModItems.PACKED_CARROTS);
                 entries.add(ModItems.PACKED_POTATOES);
                 entries.add(ModItems.PACKED_ENDER_PEARLS);
+                entries.add(ModItems.BAG_OF_GUNPOWDER);
+                entries.add(ModItems.BAG_OF_FLINT);
+                entries.add(ModItems.BAG_OF_NETHER_WARTS);
+                entries.add(ModItems.BAG_OF_OAK_SAPLINGS);
+                entries.add(ModItems.BAG_OF_MANGROVE_PROPAGULES);
+                entries.add(ModItems.BAG_OF_SPRUCE_SAPLINGS);
+                entries.add(ModItems.BAG_OF_JUNGLE_SAPLINGS);
+                entries.add(ModItems.BAG_OF_DARK_OAK_SAPLINGS);
+                entries.add(ModItems.BAG_OF_BIRCH_SAPLINGS);
+                entries.add(ModItems.BAG_OF_ACACIA_SAPLINGS);
+                entries.add(ModItems.BAG_OF_CHERRY_SAPLINGS);
             }).build());
     public static void registerItemGroups(){
         CompressIt.LOGGER.info("["+CompressIt.MOD_ID+"]: Registering item groups!");
