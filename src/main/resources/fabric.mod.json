@@ -3,20 +3,23 @@
 	"id": "compress-it",
 	"version": "${version}",
 	"name": "Compress It!",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Tired of a mess in your inventory? Let us tie some trash for you!",
 	"authors": [
-		"Me!"
+		"Rynn Lee, DaudAttano"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/compress-it!",
+		"sources": "https://github.com/Rynn-Lee/Compress-It-Mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/compress-it/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"dev.everrynn.compressit.CompressIt"
+		],
+		"client": [
+			"dev.everrynn.compressit.CompressItClient"
 		],
 		"fabric-datagen": [
 			"dev.everrynn.compressit.CompressItDataGenerator"

@@ -1,0 +1,19 @@
+{
+  "itemgroup.compressit": "Compress It!",
+  "item.compressit.tied_sticks": "Связка палок",
+  "item.compressit.tied_bones": "Связка костей",
+  "item.compressit.tied_blaze_rods": "Связка палочек ифрита",
+  "item.compressit.tied_kelp": "Связка ламинарий",
+  "item.compressit.tied_name_tags": "Связка бирок",
+  "item.compressit.tied_rotten_flesh": "Связка гнилой плоти",
+  "item.compressit.tied_sugar_cane": "Связка сахарного тростника",
+  "item.compressit.tied_leather": "Связка кожи",
+  "item.compressit.stack_of_papers": "Стопка бумаг",
+  "item.compressit.ball_of_strings": "Клубок ниток",
+  "item.compressit.bag_of_feathers": "Мешочек с перьями",
+  "item.compressit.packed_eggs": "Упаковка яиц",
+  "item.compressit.packed_golden_carrots": "Упаковка золотой моркови",
+  "item.compressit.packed_carrots": "Упаковка моркови",
+  "item.compressit.packed_potatoes": "Упаковка картофеля",
+  "item.compressit.packed_ender_pearls": "Упаковка жемчуга эндера"
+}
