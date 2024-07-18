@@ -57,15 +57,15 @@ public class ModItems {
         entries.add(PACKED_POTATOES);
         entries.add(BAG_OF_GUNPOWDER);
         entries.add(BAG_OF_FLINT);
-        entries.add(BAG_OF_NETHER_WARTS);
-        entries.add(BAG_OF_OAK_SAPLINGS);
-        entries.add(BAG_OF_MANGROVE_PROPAGULES);
-        entries.add(BAG_OF_SPRUCE_SAPLINGS);
-        entries.add(BAG_OF_JUNGLE_SAPLINGS);
-        entries.add(BAG_OF_DARK_OAK_SAPLINGS);
-        entries.add(BAG_OF_BIRCH_SAPLINGS);
-        entries.add(BAG_OF_ACACIA_SAPLINGS);
         entries.add(BAG_OF_CHERRY_SAPLINGS);
+        entries.add(BAG_OF_NETHER_WARTS);
+        entries.add(BAG_OF_MANGROVE_PROPAGULES);
+        entries.add(BAG_OF_BIRCH_SAPLINGS);
+        entries.add(BAG_OF_JUNGLE_SAPLINGS);
+        entries.add(BAG_OF_ACACIA_SAPLINGS);
+        entries.add(BAG_OF_OAK_SAPLINGS);
+        entries.add(BAG_OF_SPRUCE_SAPLINGS);
+        entries.add(BAG_OF_DARK_OAK_SAPLINGS);
     }
 
     private static Item registerItem(String name, Item item){
