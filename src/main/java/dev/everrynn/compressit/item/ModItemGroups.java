@@ -42,6 +42,24 @@ public class ModItemGroups {
                 entries.add(ModItems.BAG_OF_OAK_SAPLINGS);
                 entries.add(ModItems.BAG_OF_SPRUCE_SAPLINGS);
                 entries.add(ModItems.BAG_OF_DARK_OAK_SAPLINGS);
+
+                entries.add(ModItems.TIED_CANDLES);
+                entries.add(ModItems.TIED_BLACK_CANDLES);
+                entries.add(ModItems.TIED_BLUE_CANDLES);
+                entries.add(ModItems.TIED_BROWN_CANDLES);
+                entries.add(ModItems.TIED_CYAN_CANDLES);
+                entries.add(ModItems.TIED_GRAY_CANDLES);
+                entries.add(ModItems.TIED_GREEN_CANDLES);
+                entries.add(ModItems.TIED_LIGHT_BLUE_CANDLES);
+                entries.add(ModItems.TIED_LIGHT_GRAY_CANDLES);
+                entries.add(ModItems.TIED_LIME_CANDLES);
+                entries.add(ModItems.TIED_MAGENTA_CANDLES);
+                entries.add(ModItems.TIED_ORANGE_CANDLES);
+                entries.add(ModItems.TIED_PINK_CANDLES);
+                entries.add(ModItems.TIED_PURPLE_CANDLES);
+                entries.add(ModItems.TIED_RED_CANDLES);
+                entries.add(ModItems.TIED_WHITE_CANDLES);
+                entries.add(ModItems.TIED_YELLOW_CANDLES);
             }).build());
     public static void registerItemGroups(){
         CompressIt.LOGGER.info("["+CompressIt.MOD_ID+"]: Registering item groups!");

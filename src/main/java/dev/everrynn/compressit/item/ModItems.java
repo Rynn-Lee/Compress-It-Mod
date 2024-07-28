@@ -38,6 +38,23 @@ public class ModItems {
     public static final Item BAG_OF_BIRCH_SAPLINGS = registerItem("bag_of_birch_saplings", new Item(new FabricItemSettings()));
     public static final Item BAG_OF_CHERRY_SAPLINGS = registerItem("bag_of_cherry_saplings", new Item(new FabricItemSettings()));
     public static final Item BAG_OF_ACACIA_SAPLINGS = registerItem("bag_of_acacia_saplings", new Item(new FabricItemSettings()));
+    public static final Item TIED_CANDLES = registerItem("tied_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_BLACK_CANDLES = registerItem("tied_black_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_BLUE_CANDLES = registerItem("tied_blue_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_BROWN_CANDLES = registerItem("tied_brown_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_CYAN_CANDLES = registerItem("tied_cyan_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_GRAY_CANDLES = registerItem("tied_gray_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_GREEN_CANDLES = registerItem("tied_green_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_LIGHT_BLUE_CANDLES = registerItem("tied_light_blue_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_LIGHT_GRAY_CANDLES = registerItem("tied_light_gray_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_LIME_CANDLES = registerItem("tied_lime_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_MAGENTA_CANDLES = registerItem("tied_magenta_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_ORANGE_CANDLES = registerItem("tied_orange_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_PINK_CANDLES = registerItem("tied_pink_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_PURPLE_CANDLES = registerItem("tied_purple_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_RED_CANDLES = registerItem("tied_red_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_WHITE_CANDLES = registerItem("tied_white_candles", new Item(new FabricItemSettings()));
+    public static final Item TIED_YELLOW_CANDLES = registerItem("tied_yellow_candles", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries){
         entries.add(TIED_STICKS);
@@ -66,6 +83,23 @@ public class ModItems {
         entries.add(BAG_OF_OAK_SAPLINGS);
         entries.add(BAG_OF_SPRUCE_SAPLINGS);
         entries.add(BAG_OF_DARK_OAK_SAPLINGS);
+        entries.add(TIED_CANDLES);
+        entries.add(TIED_BLACK_CANDLES);
+        entries.add(TIED_BLUE_CANDLES);
+        entries.add(TIED_BROWN_CANDLES);
+        entries.add(TIED_CYAN_CANDLES);
+        entries.add(TIED_GRAY_CANDLES);
+        entries.add(TIED_GREEN_CANDLES);
+        entries.add(TIED_LIGHT_BLUE_CANDLES);
+        entries.add(TIED_LIGHT_GRAY_CANDLES);
+        entries.add(TIED_LIME_CANDLES);
+        entries.add(TIED_MAGENTA_CANDLES);
+        entries.add(TIED_ORANGE_CANDLES);
+        entries.add(TIED_PINK_CANDLES);
+        entries.add(TIED_PURPLE_CANDLES);
+        entries.add(TIED_RED_CANDLES);
+        entries.add(TIED_WHITE_CANDLES);
+        entries.add(TIED_YELLOW_CANDLES);
     }
 
     private static Item registerItem(String name, Item item){

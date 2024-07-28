@@ -27,5 +27,22 @@
   "item.compressit.bag_of_dark_oak_saplings": "Мешочек с ростками тёмного дуба",
   "item.compressit.bag_of_birch_saplings": "Мешочек с ростакми берёзы",
   "item.compressit.bag_of_acacia_saplings": "Мешочек с ростками акации",
-  "item.compressit.bag_of_cherry_saplings": "Мешочек с ростками вишневого дерева"
+  "item.compressit.bag_of_cherry_saplings": "Мешочек с ростками вишневого дерева",
+
+  "item.compressit.tied_candles": "Связка свечей",
+  "item.compressit.tied_black_candles": "Связка черных свечей",
+  "item.compressit.tied_blue_candles": "Связка синих свечей",
+  "item.compressit.tied_brown_candles": "Связка коричневых свечей",
+  "item.compressit.tied_cyan_candles": "Связка голубых свечей",
+  "item.compressit.tied_gray_candles": "Связка серых свечей",
+  "item.compressit.tied_light_blue_candles": "Связка светло голубых свечей",
+  "item.compressit.tied_light_gray_candles": "Связка светло серых свечей",
+  "item.compressit.tied_lime_candles": "Связка лаймовых свечей",
+  "item.compressit.tied_magenta_candles": "Связка сиреневых свечей",
+  "item.compressit.tied_orange_candles": "Связка оранжевых свечей",
+  "item.compressit.tied_pink_candles": "Связка розовых свечей",
+  "item.compressit.tied_purple_candles": "Связка фиолетовых свечей",
+  "item.compressit.tied_red_candles": "Связка красных свечей",
+  "item.compressit.tied_white_candles": "Связка белых свечей",
+  "item.compressit.tied_yellow_candles": "Связка желтых свечей"
 }
