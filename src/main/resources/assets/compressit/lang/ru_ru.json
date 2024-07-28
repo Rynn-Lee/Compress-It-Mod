@@ -44,5 +44,23 @@
   "item.compressit.tied_purple_candles": "Связка фиолетовых свечей",
   "item.compressit.tied_red_candles": "Связка красных свечей",
   "item.compressit.tied_white_candles": "Связка белых свечей",
-  "item.compressit.tied_yellow_candles": "Связка желтых свечей"
+  "item.compressit.tied_yellow_candles": "Связка желтых свечей",
+
+  "item.compressit.allium_bouquet": "Букет из лук-батуна",
+  "item.compressit.azure_bluet_bouquet": "Букет хаустонии серой",
+  "item.compressit.blue_orchid_bouquet": "Букет синей орхидеи",
+  "item.compressit.cornflower_bouquet": "Букет синих васильков",
+  "item.compressit.dandelion_bouquet": "Букет одуванчиков",
+  "item.compressit.lilac_bouquet": "Букет сирени",
+  "item.compressit.lily_of_the_valley_bouquet": "Букет ландышей",
+  "item.compressit.oxeye_daisy_bouquet": "Букет ромашек",
+  "item.compressit.peony_bouquet": "Букет пионов",
+  "item.compressit.poppy_bouquet": "Букет мака",
+  "item.compressit.rose_bush_bouquet": "Букет розовых кустов",
+  "item.compressit.sunflower_bouquet": "Букет подсолнухов",
+  "item.compressit.wither_rose_bouquet": "Букет роз визера",
+  "item.compressit.orange_tulip_bouquet": "Букет оранжевых тюльпанов",
+  "item.compressit.pink_tulip_bouquet": "Букет розовых тюльпанов",
+  "item.compressit.red_tulip_bouquet": "Букет красных тюльпанов",
+  "item.compressit.white_tulip_bouquet": "Букет белых тюльпанов"
 }

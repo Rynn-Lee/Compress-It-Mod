@@ -42,7 +42,6 @@ public class ModItemGroups {
                 entries.add(ModItems.BAG_OF_OAK_SAPLINGS);
                 entries.add(ModItems.BAG_OF_SPRUCE_SAPLINGS);
                 entries.add(ModItems.BAG_OF_DARK_OAK_SAPLINGS);
-
                 entries.add(ModItems.TIED_CANDLES);
                 entries.add(ModItems.TIED_BLACK_CANDLES);
                 entries.add(ModItems.TIED_BLUE_CANDLES);
@@ -60,6 +59,23 @@ public class ModItemGroups {
                 entries.add(ModItems.TIED_RED_CANDLES);
                 entries.add(ModItems.TIED_WHITE_CANDLES);
                 entries.add(ModItems.TIED_YELLOW_CANDLES);
+                entries.add(ModItems.ALLIUM_BOUQUET);
+                entries.add(ModItems.AZURE_BLUET_BOUQUET);
+                entries.add(ModItems.BLUE_ORCHID_BOUQUET);
+                entries.add(ModItems.CORNFLOWER_BOUQUET);
+                entries.add(ModItems.DANDELION_BOUQUET);
+                entries.add(ModItems.LILAC_BOUQUET);
+                entries.add(ModItems.LILY_OF_THE_VALLEY_BOUQUET);
+                entries.add(ModItems.OXEYE_DAISY_BOUQUET);
+                entries.add(ModItems.PEONY_BOUQUET);
+                entries.add(ModItems.POPPY_BOUQUET);
+                entries.add(ModItems.ROSE_BUSH_BOUQUET);
+                entries.add(ModItems.SUNFLOWER_BOUQUET);
+                entries.add(ModItems.WITHER_ROSE_BOUQUET);
+                entries.add(ModItems.ORANGE_TULIP_BOUQUET);
+                entries.add(ModItems.PINK_TULIP_BOUQUET);
+                entries.add(ModItems.RED_TULIP_BOUQUET);
+                entries.add(ModItems.WHITE_TULIP_BOUQUET);
             }).build());
     public static void registerItemGroups(){
         CompressIt.LOGGER.info("["+CompressIt.MOD_ID+"]: Registering item groups!");

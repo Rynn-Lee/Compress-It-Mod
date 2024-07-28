@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "compressit:item/sunflower_bouquet"
+  }
+}

@@ -55,6 +55,23 @@ public class ModItems {
     public static final Item TIED_RED_CANDLES = registerItem("tied_red_candles", new Item(new FabricItemSettings()));
     public static final Item TIED_WHITE_CANDLES = registerItem("tied_white_candles", new Item(new FabricItemSettings()));
     public static final Item TIED_YELLOW_CANDLES = registerItem("tied_yellow_candles", new Item(new FabricItemSettings()));
+    public static final Item ALLIUM_BOUQUET = registerItem("allium_bouquet", new Item(new FabricItemSettings()));
+    public static final Item AZURE_BLUET_BOUQUET = registerItem("azure_bluet_bouquet", new Item(new FabricItemSettings()));
+    public static final Item BLUE_ORCHID_BOUQUET = registerItem("blue_orchid_bouquet", new Item(new FabricItemSettings()));
+    public static final Item CORNFLOWER_BOUQUET = registerItem("cornflower_bouquet", new Item(new FabricItemSettings()));
+    public static final Item DANDELION_BOUQUET = registerItem("dandelion_bouquet", new Item(new FabricItemSettings()));
+    public static final Item LILAC_BOUQUET = registerItem("lilac_bouquet", new Item(new FabricItemSettings()));
+    public static final Item LILY_OF_THE_VALLEY_BOUQUET = registerItem("lily_of_the_valley_bouquet", new Item(new FabricItemSettings()));
+    public static final Item OXEYE_DAISY_BOUQUET = registerItem("oxeye_daisy_bouquet", new Item(new FabricItemSettings()));
+    public static final Item PEONY_BOUQUET = registerItem("peony_bouquet", new Item(new FabricItemSettings()));
+    public static final Item POPPY_BOUQUET = registerItem("poppy_bouquet", new Item(new FabricItemSettings()));
+    public static final Item ROSE_BUSH_BOUQUET = registerItem("rose_bush_bouquet", new Item(new FabricItemSettings()));
+    public static final Item SUNFLOWER_BOUQUET = registerItem("sunflower_bouquet", new Item(new FabricItemSettings()));
+    public static final Item WITHER_ROSE_BOUQUET = registerItem("wither_rose_bouquet", new Item(new FabricItemSettings()));
+    public static final Item ORANGE_TULIP_BOUQUET = registerItem("orange_tulip_bouquet", new Item(new FabricItemSettings()));
+    public static final Item PINK_TULIP_BOUQUET = registerItem("pink_tulip_bouquet", new Item(new FabricItemSettings()));
+    public static final Item RED_TULIP_BOUQUET = registerItem("red_tulip_bouquet", new Item(new FabricItemSettings()));
+    public static final Item WHITE_TULIP_BOUQUET = registerItem("white_tulip_bouquet", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries){
         entries.add(TIED_STICKS);
@@ -100,6 +117,23 @@ public class ModItems {
         entries.add(TIED_RED_CANDLES);
         entries.add(TIED_WHITE_CANDLES);
         entries.add(TIED_YELLOW_CANDLES);
+        entries.add(ALLIUM_BOUQUET);
+        entries.add(AZURE_BLUET_BOUQUET);
+        entries.add(BLUE_ORCHID_BOUQUET);
+        entries.add(CORNFLOWER_BOUQUET);
+        entries.add(DANDELION_BOUQUET);
+        entries.add(LILAC_BOUQUET);
+        entries.add(LILY_OF_THE_VALLEY_BOUQUET);
+        entries.add(OXEYE_DAISY_BOUQUET);
+        entries.add(PEONY_BOUQUET);
+        entries.add(POPPY_BOUQUET);
+        entries.add(ROSE_BUSH_BOUQUET);
+        entries.add(SUNFLOWER_BOUQUET);
+        entries.add(WITHER_ROSE_BOUQUET);
+        entries.add(ORANGE_TULIP_BOUQUET);
+        entries.add(PINK_TULIP_BOUQUET);
+        entries.add(RED_TULIP_BOUQUET);
+        entries.add(WHITE_TULIP_BOUQUET);
     }
 
     private static Item registerItem(String name, Item item){
